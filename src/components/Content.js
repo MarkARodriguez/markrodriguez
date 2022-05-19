@@ -1,6 +1,5 @@
 import React from 'react'
 import Button from '@mui/material/Button';
-import Tech from './Tech';
 
 
 function Content() {

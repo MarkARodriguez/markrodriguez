@@ -1,4 +1,3 @@
-import { isContentEditable } from "@testing-library/user-event/dist/utils";
 import Tech from "./components/Tech";
 import Header from "./components/Header";
 import Content from "./components/Content";
