@@ -10,12 +10,12 @@ function Content() {
           <h className='text-white text-6xl '>Hi! 👋</h>
           <br></br>
           <p className='text-white text-6xl mt-5'>My name is Mark</p>
-          <p className='text-[#d9b439] text-2xl pt-5 pl-10'>SOFTWARE DEVELOPER +</p>
-          <p className='text-[#FED960] text-2xl pt-1 pl-12'>BLOCKCHAIN ENGINEER</p>
+          <p className='text-[#d9b439] text-2xl pt-5 pl-10'>PRODUCT DESIGN ENGINEER +</p>
+          <p className='text-[#FED960] text-2xl pt-1 pl-12'>SOFTWARE DEVELOPER</p>
 
         <br></br>
-        <p className='text-white ml-20'>I am an engineer working on the future of the internet.</p>
-         <p className='text-white ml-20'>Living and working in Miami, FL.</p>
+        <p className='text-white ml-20'>I am an engineer working on the future of digital fabrication.</p>
+         <p className='text-white ml-20'>Living and working in Boulder, CO.</p>
          
          <br></br>
          <div className='ml-80 flex'>
@@ -27,7 +27,7 @@ function Content() {
         fontSize: "15px",
         color: 'black'
         
-    }} >Waive</Button>
+    }} >Contact</Button>
         </div>
 
       </div>
